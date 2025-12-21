@@ -3,7 +3,7 @@ puppet-googleauthenticator
 
 [![Puppet Forge Version](http://img.shields.io/puppetforge/v/voxpupuli/googleauthenticator.svg)](https://forge.puppetlabs.com/puppet/googleauthenticator)
 [![Puppet Forge Downloads](http://img.shields.io/puppetforge/dt/voxpupuli/googleauthenticator.svg)](https://forge.puppetlabs.com/puppet/googleauthenticator)
-[![Build Status](https://img.shields.io/travis/voxpupuli/puppet-googleauthenticator/master.svg)](https://travis-ci.org/voxpupuli/puppet-googleauthenticator)
+![Build Status](https://github.com/voxpupuli/puppet-googleauthenticator/actions/workflows/ci.yml/badge.svg?branch=master)]
 [![Gemnasium](https://img.shields.io/gemnasium/voxpupuli/puppet-googleauthenticator.svg)](https://gemnasium.com/voxpupuli/puppet-googleauthenticator)
 [![Donated by Camptocamp](https://img.shields.io/badge/donated%20by-camptocamp-fb7047.svg)](#transfer-notice)
 
